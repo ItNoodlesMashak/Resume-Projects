@@ -1,0 +1,8 @@
+﻿  CSuperString.cpp
+C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(697,21): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(1092,14): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(1129,14): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  FInal_Project.cpp
+C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\FInal_Project.cpp(42,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Final_Project_RM.vcxproj -> C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\x64\Debug\Final_Project_RM.exe
