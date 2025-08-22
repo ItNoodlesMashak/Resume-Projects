@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FInal_Project.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CSuperString.cpp">
+    <ClCompile Include="Final_Project_RM.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CSuperString.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
+    <None Include="..\..\..\..\Downloads\sample.csv">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

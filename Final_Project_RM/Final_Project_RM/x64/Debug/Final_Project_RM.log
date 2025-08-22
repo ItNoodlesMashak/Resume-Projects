@@ -1,8 +1,42 @@
-﻿  CSuperString.cpp
-C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(697,21): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
-C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(1092,14): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
-C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\CSuperString.cpp(1129,14): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
-  FInal_Project.cpp
-C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\Final_Project_RM\FInal_Project.cpp(42,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating Code...
-  Final_Project_RM.vcxproj -> C:\Users\Noodles\Desktop\vb.net\C++ LV.2\Final_Project_RM\x64\Debug\Final_Project_RM.exe
+﻿  Final_Project_RM.c
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21): warning C4477: 'sscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21):
+      this argument is used as a buffer size
+  
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21): warning C4477: 'sscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21):
+      this argument is used as a buffer size
+  
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21): warning C4477: 'sscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21):
+      this argument is used as a buffer size
+  
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21): warning C4477: 'sscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(52,21):
+      this argument is used as a buffer size
+  
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(81,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(464,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(473,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(482,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(491,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(500,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(509,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(752,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(752,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(752,10):
+      the missing variadic argument 2 is required by format string '%c'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(752,10):
+      this argument is used as a buffer size
+  
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(856,4): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(908,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(908,11):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(908,11):
+      the missing variadic argument 2 is required by format string '%c'
+      C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\Final_Project_RM\Final_Project_RM.c(908,11):
+      this argument is used as a buffer size
+  
+  Final_Project_RM.vcxproj -> C:\Users\Noodles\Desktop\vb.net\C++\Final_Project_RM\x64\Debug\Final_Project_RM.exe

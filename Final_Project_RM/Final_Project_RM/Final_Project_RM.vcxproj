@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1b07ac09-ce95-412f-8479-66e8b56398ab}</ProjectGuid>
+    <ProjectGuid>{837f015a-8f5b-45b1-81f4-352257eeff99}</ProjectGuid>
     <RootNamespace>FinalProjectRM</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,11 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CSuperString.cpp" />
-    <ClCompile Include="FInal_Project.cpp" />
+    <ClCompile Include="Final_Project_RM.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CSuperString.h" />
+    <None Include="..\..\..\..\Downloads\sample.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
